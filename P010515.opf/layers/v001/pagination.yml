@@ -2,31 +2,31 @@ id: 07a7f287583642b689a59accb50042ce
 annotation_type: pagination
 revision: '00001'
 annotations:
-- id: eff7d2a3478f46d4900c75eb6d043ff2
-  span:
-    start: 0
-    end: 722
-  page_index: 1a
-  page_info: null
-  reference: I1CZ24390001
-- id: b0ebf34631994a1e9a7b2141a0496771
-  span:
-    start: 727
-    end: 979
-  page_index: 2a
-  page_info: null
-  reference: I1CZ24390003
-- id: f7a21cb1f7444e0db54f4b4d3abe7399
-  span:
-    start: 984
-    end: 1137
-  page_index: 3a
-  page_info: null
-  reference: I1CZ24390005
-- id: 7a3f272b0c504528b95e9b72c6395008
-  span:
-    start: 1142
-    end: 1828
-  page_index: 3b
-  page_info: null
-  reference: I1CZ24390006
+  eff7d2a3478f46d4900c75eb6d043ff2:
+    page_index: 1a
+    page_info: null
+    reference: I1CZ24390001
+    span:
+      start: 0
+      end: 722
+  b0ebf34631994a1e9a7b2141a0496771:
+    page_index: 2a
+    page_info: null
+    reference: I1CZ24390003
+    span:
+      start: 727
+      end: 979
+  f7a21cb1f7444e0db54f4b4d3abe7399:
+    page_index: 3a
+    page_info: null
+    reference: I1CZ24390005
+    span:
+      start: 984
+      end: 1137
+  7a3f272b0c504528b95e9b72c6395008:
+    page_index: 3b
+    page_info: null
+    reference: I1CZ24390006
+    span:
+      start: 1142
+      end: 1828
